@@ -27,7 +27,7 @@ _A curated portfolio harmonizing diverse data projects—from Airflow pipelines 
 
 Below are some of my other projects that reflect a wide range of data-driven skills:
 
-- **[Project Name 1](#):**  
+- **[Use FAISS for Self-Development ?](#https://github.com/wolfmib/alinex-faiss):**  
   *A brief description of what this project does and how it relates to data engineering/BI/AI.*  
 
 - **[Project Name 2](#):**  
