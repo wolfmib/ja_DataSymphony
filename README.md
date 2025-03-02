@@ -13,6 +13,8 @@ _A curated portfolio harmonizing diverse data projects—from Airflow pipelines 
 
 ## Latest Project: Airflow Showcase on macOS M2 March-01-2025
 
+**[Airflow Showcase](https://github.com/wolfmib/ja_DataSymphony/tree/main/airflow-showcase)**
+
 ### Overview
 - **Installation & Environment:**  
   I installed Apache Airflow on my Mac laptop (M2) and encountered some conflicts due to OS compatibility issues. After troubleshooting, I discovered a recommended OS version to resolve these issues (more details coming soon).
