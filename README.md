@@ -27,8 +27,9 @@ _A curated portfolio harmonizing diverse data projects—from Airflow pipelines 
 
 Below are some of my other projects that reflect a wide range of data-driven skills:
 
-- **[Use FAISS for Self-Development ?](#https://github.com/wolfmib/alinex-faiss):**  
-  *A brief description of what this project does and how it relates to data engineering/BI/AI.*  
+- **[Use FAISS for Self-Development ?](https://github.com/wolfmib/alinex-faiss):**  
+  *provides a Flask-based API for managing FAISS vector stores with OpenAI embeddings. *
+  *You can create vector stores, add vectors to them, and perform similarity searches. *  
 
 - **[Project Name 2](#):**  
   *A brief description of this repository, highlighting its relevance to gaming analytics or data science.*  
