@@ -1,6 +1,11 @@
  ## Demo: Deploying EC2 with PostgreSQL & Token-Based API
 In this demo, I walk through a full-stack deployment setup on AWS:
 
+
+
+[![Watch the video](https://img.youtube.com/vi/_CSsxp-cTyY/0.jpg)](https://www.youtube.com/watch?v=_CSsxp-cTyY)
+
+
 -----
 
 
