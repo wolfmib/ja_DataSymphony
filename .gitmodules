@@ -1,0 +1,6 @@
+[submodule "ja_db_02"]
+	path = ja_db_02
+	url = git@github.com:wolfmib/ja_db_02.git
+[submodule "ja_web_01"]
+	path = ja_web_01
+	url = git@github.com:wolfmib/ja_portfolio_vue_app.git
